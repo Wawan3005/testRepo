@@ -1,2 +1,3 @@
 # testRepo
-ceci est un repo pour apprendre à utiliser git
+ceci est un repo pour apprendre Ã  utiliser git
+# ce n'est pas fini
